@@ -1,0 +1,7 @@
+[{
+  "caption": "Google Translate",
+  "children": [{
+    "caption": "English To Chinese",
+    "command": "google_translate_english_to_chinese"
+  }]
+}]
